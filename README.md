@@ -30,10 +30,10 @@ Deployment: Render (backend) & Vercel (frontend)
 ### Results
 
 #### Screenshot 1
-![AI Response](results/img1.png)
+![AI Response](result/img1.png)
 
 #### Screenshot 2
-![AI Response](results/img2.png)
+![AI Response](result/img2.png)
 
 #### Demo Video
-[![Watch the Video](results/video_thumbnail.png)](results/video1.mp4)
+[![Watch the Video](result/video_thumbnail.png)](results/video1.mp4)
